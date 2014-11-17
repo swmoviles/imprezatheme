@@ -1,0 +1,1801 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: office\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-16 19:15-0800\n"
+"PO-Revision-Date: 2013-09-16 19:15-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../shortcodes/shortcodes.php:47 ../shortcodes/shortcodes.php:251
+msgid "Visit Site"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:480
+msgid ""
+"WPML ICL_LANGUAGE_CODE constant does not exist. If you want to translate "
+"something please first install the WPML plugin."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:553
+msgid "Sample Heading"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:678 ../tinymce/shortcodes-array.php:1156
+msgid "News"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:683 ../shortcodes/shortcodes.php:833
+msgid "read more"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:691 ../shortcodes/shortcodes.php:842
+#: ../shortcodes/shortcodes.php:1070 ../shortcodes/shortcodes.php:1283
+msgid "Please select only 1 post type."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:694 ../shortcodes/shortcodes.php:845
+#: ../shortcodes/shortcodes.php:1073 ../shortcodes/shortcodes.php:1286
+msgid "Sorry the post type you have selected does not exist"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:699 ../shortcodes/shortcodes.php:857
+#: ../shortcodes/shortcodes.php:1122 ../shortcodes/shortcodes.php:1322
+msgid "Your selected taxonomy does not exist"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:700 ../shortcodes/shortcodes.php:858
+#: ../shortcodes/shortcodes.php:1123 ../shortcodes/shortcodes.php:1323
+msgid "Your selected term does not exist"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1484
+msgid "Previous"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1485
+msgid "Next"
+msgstr ""
+
+#: ../tinymce/mce-popup.php:26
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:13
+msgid "Insert Columns"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:18 ../tinymce/shortcodes-array.php:73
+#: ../tinymce/shortcodes-array.php:825 ../tinymce/shortcodes-array.php:2001
+msgid "Size"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:19 ../tinymce/shortcodes-array.php:826
+msgid "Select the width of the column."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:36 ../tinymce/shortcodes-array.php:843
+msgid "Position"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:37 ../tinymce/shortcodes-array.php:844
+msgid "Is this a first, middle or last column?"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:48 ../tinymce/shortcodes-array.php:312
+#: ../tinymce/shortcodes-array.php:366 ../tinymce/shortcodes-array.php:697
+#: ../tinymce/shortcodes-array.php:2013
+#: ../visual-composer/extend-visual-composer.php:381
+#: ../visual-composer/extend-visual-composer.php:459
+#: ../visual-composer/extend-visual-composer.php:913
+#: ../visual-composer/extend-visual-composer.php:2212
+msgid "Fade In"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:50 ../tinymce/shortcodes-array.php:314
+#: ../tinymce/shortcodes-array.php:368 ../tinymce/shortcodes-array.php:699
+#: ../tinymce/shortcodes-array.php:2015
+#: ../visual-composer/extend-visual-composer.php:175
+#: ../visual-composer/extend-visual-composer.php:386
+#: ../visual-composer/extend-visual-composer.php:464
+#: ../visual-composer/extend-visual-composer.php:811
+#: ../visual-composer/extend-visual-composer.php:918
+#: ../visual-composer/extend-visual-composer.php:1191
+#: ../visual-composer/extend-visual-composer.php:1258
+#: ../visual-composer/extend-visual-composer.php:1287
+#: ../visual-composer/extend-visual-composer.php:1298
+#: ../visual-composer/extend-visual-composer.php:1318
+#: ../visual-composer/extend-visual-composer.php:1433
+#: ../visual-composer/extend-visual-composer.php:1555
+#: ../visual-composer/extend-visual-composer.php:1566
+#: ../visual-composer/extend-visual-composer.php:1577
+#: ../visual-composer/extend-visual-composer.php:1600
+#: ../visual-composer/extend-visual-composer.php:1629
+#: ../visual-composer/extend-visual-composer.php:1739
+#: ../visual-composer/extend-visual-composer.php:1768
+#: ../visual-composer/extend-visual-composer.php:1790
+#: ../visual-composer/extend-visual-composer.php:1800
+#: ../visual-composer/extend-visual-composer.php:1812
+#: ../visual-composer/extend-visual-composer.php:1823
+#: ../visual-composer/extend-visual-composer.php:1881
+#: ../visual-composer/extend-visual-composer.php:1929
+#: ../visual-composer/extend-visual-composer.php:1940
+#: ../visual-composer/extend-visual-composer.php:1951
+#: ../visual-composer/extend-visual-composer.php:1973
+#: ../visual-composer/extend-visual-composer.php:2002
+#: ../visual-composer/extend-visual-composer.php:2067
+#: ../visual-composer/extend-visual-composer.php:2096
+#: ../visual-composer/extend-visual-composer.php:2118
+#: ../visual-composer/extend-visual-composer.php:2128
+#: ../visual-composer/extend-visual-composer.php:2140
+#: ../visual-composer/extend-visual-composer.php:2151
+#: ../visual-composer/extend-visual-composer.php:2217
+msgid "False"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:51 ../tinymce/shortcodes-array.php:315
+#: ../tinymce/shortcodes-array.php:369 ../tinymce/shortcodes-array.php:700
+#: ../tinymce/shortcodes-array.php:2016
+#: ../visual-composer/extend-visual-composer.php:174
+#: ../visual-composer/extend-visual-composer.php:385
+#: ../visual-composer/extend-visual-composer.php:463
+#: ../visual-composer/extend-visual-composer.php:810
+#: ../visual-composer/extend-visual-composer.php:917
+#: ../visual-composer/extend-visual-composer.php:1192
+#: ../visual-composer/extend-visual-composer.php:1257
+#: ../visual-composer/extend-visual-composer.php:1286
+#: ../visual-composer/extend-visual-composer.php:1297
+#: ../visual-composer/extend-visual-composer.php:1317
+#: ../visual-composer/extend-visual-composer.php:1432
+#: ../visual-composer/extend-visual-composer.php:1554
+#: ../visual-composer/extend-visual-composer.php:1565
+#: ../visual-composer/extend-visual-composer.php:1576
+#: ../visual-composer/extend-visual-composer.php:1599
+#: ../visual-composer/extend-visual-composer.php:1628
+#: ../visual-composer/extend-visual-composer.php:1738
+#: ../visual-composer/extend-visual-composer.php:1767
+#: ../visual-composer/extend-visual-composer.php:1789
+#: ../visual-composer/extend-visual-composer.php:1801
+#: ../visual-composer/extend-visual-composer.php:1811
+#: ../visual-composer/extend-visual-composer.php:1822
+#: ../visual-composer/extend-visual-composer.php:1882
+#: ../visual-composer/extend-visual-composer.php:1928
+#: ../visual-composer/extend-visual-composer.php:1939
+#: ../visual-composer/extend-visual-composer.php:1950
+#: ../visual-composer/extend-visual-composer.php:1972
+#: ../visual-composer/extend-visual-composer.php:2001
+#: ../visual-composer/extend-visual-composer.php:2066
+#: ../visual-composer/extend-visual-composer.php:2095
+#: ../visual-composer/extend-visual-composer.php:2117
+#: ../visual-composer/extend-visual-composer.php:2129
+#: ../visual-composer/extend-visual-composer.php:2139
+#: ../visual-composer/extend-visual-composer.php:2150
+#: ../visual-composer/extend-visual-composer.php:2216
+msgid "True"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:57 ../tinymce/shortcodes-array.php:124
+#: ../tinymce/shortcodes-array.php:202
+msgid "Column Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:62
+msgid "New Column"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:74
+#: ../visual-composer/extend-visual-composer.php:72
+msgid "Enter a height in pixels for your spacing."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:79
+msgid "Insert Spacing"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:89 ../tinymce/shortcodes-array.php:454
+#: ../tinymce/shortcodes-array.php:542 ../tinymce/shortcodes-array.php:1578
+#: ../visual-composer/extend-visual-composer.php:92
+#: ../visual-composer/extend-visual-composer.php:586
+msgid "Style"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:101
+msgid "Insert your unordered list here"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:102
+msgid "Insert Bullet"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:112 ../tinymce/shortcodes-array.php:190
+#: ../tinymce/shortcodes-array.php:464 ../tinymce/shortcodes-array.php:524
+#: ../visual-composer/extend-visual-composer.php:200
+#: ../visual-composer/extend-visual-composer.php:599
+#: ../visual-composer/extend-visual-composer.php:649
+msgid "Margin Top"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:118 ../tinymce/shortcodes-array.php:196
+#: ../tinymce/shortcodes-array.php:469 ../tinymce/shortcodes-array.php:529
+#: ../visual-composer/extend-visual-composer.php:209
+#: ../visual-composer/extend-visual-composer.php:608
+#: ../visual-composer/extend-visual-composer.php:658
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:129
+msgid "Insert Centered Container"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:139
+#: ../visual-composer/extend-visual-composer.php:133
+msgid "Background Color (Hex)"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:145
+#: ../visual-composer/extend-visual-composer.php:142
+msgid "Text Color (Hex)"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:146
+msgid ""
+"This value might be easily overriten by the theme, so if this setting does "
+"not work you might have to add some custom css to your theme or  use the WP "
+"editor to alter the color of your elements."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:151
+msgid "Background Image URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:157
+#: ../visual-composer/extend-visual-composer.php:157
+msgid "Background Style"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:168
+msgid "Center Inner Content?"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:178
+#: ../visual-composer/extend-visual-composer.php:182
+msgid "Padding Top"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:184
+#: ../visual-composer/extend-visual-composer.php:191
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:207
+msgid "Insert Background Area"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:217
+#: ../visual-composer/extend-visual-composer.php:244
+msgid "Button URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:222
+msgid "Button's Text"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:227
+#: ../visual-composer/extend-visual-composer.php:259
+#: ../visual-composer/extend-visual-composer.php:850
+msgid "Link Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:231
+msgid "Button Style"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:233
+#: ../visual-composer/extend-visual-composer.php:272
+#: ../visual-composer/extend-visual-composer.php:368
+#: ../visual-composer/extend-visual-composer.php:493
+#: ../visual-composer/extend-visual-composer.php:1049
+msgid "Black"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:234
+#: ../visual-composer/extend-visual-composer.php:96
+#: ../visual-composer/extend-visual-composer.php:273
+#: ../visual-composer/extend-visual-composer.php:369
+#: ../visual-composer/extend-visual-composer.php:494
+#: ../visual-composer/extend-visual-composer.php:746
+#: ../visual-composer/extend-visual-composer.php:1050
+msgid "Blue"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:235
+#: ../visual-composer/extend-visual-composer.php:274
+#: ../visual-composer/extend-visual-composer.php:495
+#: ../visual-composer/extend-visual-composer.php:1051
+msgid "Brown"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:236
+#: ../visual-composer/extend-visual-composer.php:275
+#: ../visual-composer/extend-visual-composer.php:496
+#: ../visual-composer/extend-visual-composer.php:1052
+msgid "Grey"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:237
+#: ../visual-composer/extend-visual-composer.php:276
+#: ../visual-composer/extend-visual-composer.php:371
+#: ../visual-composer/extend-visual-composer.php:497
+#: ../visual-composer/extend-visual-composer.php:747
+#: ../visual-composer/extend-visual-composer.php:1053
+msgid "Green"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:238
+#: ../visual-composer/extend-visual-composer.php:277
+#: ../visual-composer/extend-visual-composer.php:498
+#: ../visual-composer/extend-visual-composer.php:1054
+msgid "Gold"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:239
+#: ../visual-composer/extend-visual-composer.php:278
+#: ../visual-composer/extend-visual-composer.php:499
+#: ../visual-composer/extend-visual-composer.php:1055
+msgid "Orange"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:240
+#: ../visual-composer/extend-visual-composer.php:279
+#: ../visual-composer/extend-visual-composer.php:500
+#: ../visual-composer/extend-visual-composer.php:1056
+msgid "Pink"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:241
+#: ../visual-composer/extend-visual-composer.php:99
+#: ../visual-composer/extend-visual-composer.php:280
+#: ../visual-composer/extend-visual-composer.php:372
+#: ../visual-composer/extend-visual-composer.php:501
+#: ../visual-composer/extend-visual-composer.php:749
+#: ../visual-composer/extend-visual-composer.php:1057
+msgid "Red"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:242
+#: ../visual-composer/extend-visual-composer.php:281
+#: ../visual-composer/extend-visual-composer.php:502
+#: ../visual-composer/extend-visual-composer.php:1058
+msgid "Rosy"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:243
+#: ../visual-composer/extend-visual-composer.php:282
+#: ../visual-composer/extend-visual-composer.php:503
+#: ../visual-composer/extend-visual-composer.php:1059
+msgid "Teal"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:249
+#: ../visual-composer/extend-visual-composer.php:289
+msgid "Button Size"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:251 ../tinymce/shortcodes-array.php:2006
+#: ../visual-composer/extend-visual-composer.php:293
+#: ../visual-composer/extend-visual-composer.php:514
+#: ../visual-composer/extend-visual-composer.php:1070
+#: ../visual-composer/extend-visual-composer.php:2204
+msgid "Small"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:252
+#: ../visual-composer/extend-visual-composer.php:294
+#: ../visual-composer/extend-visual-composer.php:515
+#: ../visual-composer/extend-visual-composer.php:1071
+msgid "Medium"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:253 ../tinymce/shortcodes-array.php:2004
+#: ../visual-composer/extend-visual-composer.php:295
+#: ../visual-composer/extend-visual-composer.php:516
+#: ../visual-composer/extend-visual-composer.php:1072
+#: ../visual-composer/extend-visual-composer.php:2202
+msgid "Large"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:259 ../tinymce/shortcodes-array.php:2041
+#: ../visual-composer/extend-visual-composer.php:302
+#: ../visual-composer/extend-visual-composer.php:305
+#: ../visual-composer/extend-visual-composer.php:2252
+msgid "Border Radius"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:263 ../tinymce/shortcodes-array.php:658
+#: ../visual-composer/extend-visual-composer.php:311
+#: ../visual-composer/extend-visual-composer.php:859
+msgid "Link Target"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:271 ../tinymce/shortcodes-array.php:666
+msgid "Rel"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:279 ../tinymce/shortcodes-array.php:561
+#: ../visual-composer/extend-visual-composer.php:333
+#: ../visual-composer/extend-visual-composer.php:711
+msgid "Icon Left"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:284 ../tinymce/shortcodes-array.php:566
+#: ../visual-composer/extend-visual-composer.php:342
+#: ../visual-composer/extend-visual-composer.php:720
+msgid "Icon Right"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:289
+msgid "Insert Button"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:298 ../tinymce/shortcodes-array.php:581
+#: ../tinymce/shortcodes-array.php:619
+#: ../visual-composer/extend-visual-composer.php:365
+#: ../visual-composer/extend-visual-composer.php:743
+msgid "Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:321 ../tinymce/shortcodes-array.php:2021
+#: ../visual-composer/extend-visual-composer.php:393
+#: ../visual-composer/extend-visual-composer.php:2224
+msgid "Float"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:323 ../tinymce/shortcodes-array.php:335
+#: ../visual-composer/extend-visual-composer.php:397
+#: ../visual-composer/extend-visual-composer.php:411
+#: ../visual-composer/extend-visual-composer.php:703
+#: ../visual-composer/extend-visual-composer.php:2227
+msgid "Center"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:324 ../tinymce/shortcodes-array.php:333
+#: ../tinymce/shortcodes-array.php:2023
+#: ../visual-composer/extend-visual-composer.php:398
+#: ../visual-composer/extend-visual-composer.php:410
+#: ../visual-composer/extend-visual-composer.php:702
+#: ../visual-composer/extend-visual-composer.php:2228
+msgid "Left"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:325 ../tinymce/shortcodes-array.php:334
+#: ../tinymce/shortcodes-array.php:2024
+#: ../visual-composer/extend-visual-composer.php:399
+#: ../visual-composer/extend-visual-composer.php:412
+#: ../visual-composer/extend-visual-composer.php:704
+#: ../visual-composer/extend-visual-composer.php:2229
+msgid "Right"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:331 ../tinymce/shortcodes-array.php:551
+msgid "Text Align"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:341
+msgid "Width"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:346
+#: ../visual-composer/extend-visual-composer.php:428
+msgid "Box Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:351 ../tinymce/shortcodes-array.php:474
+#: ../tinymce/shortcodes-array.php:504 ../tinymce/shortcodes-array.php:598
+#: ../tinymce/shortcodes-array.php:2046
+msgid "Insert Box"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:361
+#: ../visual-composer/extend-visual-composer.php:450
+#: ../visual-composer/extend-visual-composer.php:453
+msgid "Callout Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:375 ../tinymce/shortcodes-array.php:881
+#: ../visual-composer/extend-visual-composer.php:480
+#: ../visual-composer/extend-visual-composer.php:483
+#: ../visual-composer/extend-visual-composer.php:1027
+#: ../visual-composer/extend-visual-composer.php:1030
+msgid "Button: Text"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:380 ../tinymce/shortcodes-array.php:887
+#: ../visual-composer/extend-visual-composer.php:471
+#: ../visual-composer/extend-visual-composer.php:474
+#: ../visual-composer/extend-visual-composer.php:1036
+#: ../visual-composer/extend-visual-composer.php:1039
+msgid "Button: URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:384 ../tinymce/shortcodes-array.php:892
+msgid "Button: Style"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:403 ../tinymce/shortcodes-array.php:912
+#: ../visual-composer/extend-visual-composer.php:510
+#: ../visual-composer/extend-visual-composer.php:1066
+msgid "Button: Size"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:414 ../tinymce/shortcodes-array.php:925
+#: ../visual-composer/extend-visual-composer.php:523
+#: ../visual-composer/extend-visual-composer.php:526
+#: ../visual-composer/extend-visual-composer.php:1079
+#: ../visual-composer/extend-visual-composer.php:1082
+msgid "Button: Border Radius"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:418 ../tinymce/shortcodes-array.php:929
+#: ../visual-composer/extend-visual-composer.php:532
+#: ../visual-composer/extend-visual-composer.php:1088
+msgid "Button: Link Target"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:426 ../tinymce/shortcodes-array.php:938
+#: ../visual-composer/extend-visual-composer.php:543
+#: ../visual-composer/extend-visual-composer.php:1099
+msgid "Button: Rel"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:434 ../tinymce/shortcodes-array.php:947
+#: ../visual-composer/extend-visual-composer.php:554
+#: ../visual-composer/extend-visual-composer.php:1110
+msgid "Button: Icon Left"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:439 ../tinymce/shortcodes-array.php:953
+#: ../visual-composer/extend-visual-composer.php:563
+#: ../visual-composer/extend-visual-composer.php:1119
+msgid "Button: Icon Right"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:445
+msgid "Insert Callout"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:484 ../tinymce/shortcodes-array.php:514
+#: ../tinymce/shortcodes-array.php:609 ../tinymce/shortcodes-array.php:766
+#: ../visual-composer/extend-visual-composer.php:631
+#: ../visual-composer/extend-visual-composer.php:780
+msgid "Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:489
+msgid "Location"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:494
+msgid "Height"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:499
+msgid "Zoom"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:519
+#: ../visual-composer/extend-visual-composer.php:640
+msgid "Type"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:534
+#: ../visual-composer/extend-visual-composer.php:667
+msgid "Font Size"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:539
+msgid "Color (hex)"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:572
+msgid "Insert Heading"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:593
+#: ../visual-composer/extend-visual-composer.php:757
+msgid "Highlighted Text"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:614
+#: ../visual-composer/extend-visual-composer.php:789
+msgid "Percentage"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:624
+#: ../visual-composer/extend-visual-composer.php:807
+msgid "Display % Number"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:633
+msgid "Insert Skillbar"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:643
+msgid "Select Your Icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:649
+#: ../visual-composer/extend-visual-composer.php:241
+#: ../visual-composer/extend-visual-composer.php:841
+msgid "URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:654
+msgid "URL Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:675
+msgid "Insert Social Icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:687
+#: ../visual-composer/extend-visual-composer.php:895
+#: ../visual-composer/extend-visual-composer.php:1233
+#: ../visual-composer/extend-visual-composer.php:1411
+#: ../visual-composer/extend-visual-composer.php:1518
+#: ../visual-composer/extend-visual-composer.php:1714
+msgid "Author"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:692 ../tinymce/shortcodes-array.php:751
+#: ../tinymce/shortcodes-array.php:771
+#: ../visual-composer/extend-visual-composer.php:218
+#: ../visual-composer/extend-visual-composer.php:250
+#: ../visual-composer/extend-visual-composer.php:956
+msgid "Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:705
+msgid "Insert Testimonial"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:715
+msgid "Insert Accordion"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:721
+msgid "Section Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:722 ../tinymce/shortcodes-array.php:767
+msgid "Your Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:729
+msgid "Section Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:730 ../tinymce/shortcodes-array.php:772
+msgid "Your Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:735
+msgid "Add Section"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:746
+#: ../visual-composer/extend-visual-composer.php:947
+msgid "Language"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:752
+msgid "Hola"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:757
+msgid "Insert Translated Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:776
+msgid "State"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:786
+msgid "Insert Toggle Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:794 ../tinymce/shortcodes-array.php:820
+msgid "Insert Tab"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:800
+msgid "Tab Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:801
+msgid "Enter a unique title for your tab."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:806
+msgid "Tab Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:811
+msgid "Add Tab"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:853
+#: ../visual-composer/extend-visual-composer.php:978
+msgid "Featured"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:863
+#: ../visual-composer/extend-visual-composer.php:989
+msgid "Plan"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:869
+#: ../visual-composer/extend-visual-composer.php:997
+msgid "Cost"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:875
+#: ../visual-composer/extend-visual-composer.php:1005
+msgid "Per (optional)"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:967
+#: ../visual-composer/extend-visual-composer.php:1013
+msgid "Features"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:972
+msgid "Add Column"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:984 ../tinymce/shortcodes-array.php:1145
+#: ../tinymce/shortcodes-array.php:1232 ../tinymce/shortcodes-array.php:1398
+#: ../tinymce/shortcodes-array.php:1572 ../tinymce/shortcodes-array.php:1669
+#: ../tinymce/shortcodes-array.php:1793 ../tinymce/shortcodes-array.php:1925
+#: ../visual-composer/extend-visual-composer.php:1142
+#: ../visual-composer/extend-visual-composer.php:1339
+#: ../visual-composer/extend-visual-composer.php:1454
+#: ../visual-composer/extend-visual-composer.php:1650
+#: ../visual-composer/extend-visual-composer.php:1868
+#: ../visual-composer/extend-visual-composer.php:2031
+msgid "Unique Id"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:985 ../tinymce/shortcodes-array.php:1146
+#: ../tinymce/shortcodes-array.php:1233 ../tinymce/shortcodes-array.php:1399
+#: ../tinymce/shortcodes-array.php:1573 ../tinymce/shortcodes-array.php:1670
+#: ../tinymce/shortcodes-array.php:1794 ../tinymce/shortcodes-array.php:1926
+#: ../visual-composer/extend-visual-composer.php:1145
+#: ../visual-composer/extend-visual-composer.php:1342
+#: ../visual-composer/extend-visual-composer.php:1457
+#: ../visual-composer/extend-visual-composer.php:1653
+#: ../visual-composer/extend-visual-composer.php:1871
+#: ../visual-composer/extend-visual-composer.php:2034
+msgid "You can enter a unique ID here for styling purposes."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:990 ../tinymce/shortcodes-array.php:1151
+#: ../tinymce/shortcodes-array.php:1238 ../tinymce/shortcodes-array.php:1404
+msgid "Post Type"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:997 ../tinymce/shortcodes-array.php:1164
+#: ../tinymce/shortcodes-array.php:1245 ../tinymce/shortcodes-array.php:1411
+#: ../visual-composer/extend-visual-composer.php:1160
+#: ../visual-composer/extend-visual-composer.php:1365
+#: ../visual-composer/extend-visual-composer.php:1472
+#: ../visual-composer/extend-visual-composer.php:1668
+msgid "Taxonomy Name"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:998 ../tinymce/shortcodes-array.php:1165
+#: ../tinymce/shortcodes-array.php:1246 ../tinymce/shortcodes-array.php:1412
+msgid ""
+"Select a custom taxonomy if you want to show items only from a specific "
+"taxonomy. Leave blank to display recent items from the whole post type. Ex: "
+"category."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1003 ../tinymce/shortcodes-array.php:1170
+#: ../tinymce/shortcodes-array.php:1251 ../tinymce/shortcodes-array.php:1416
+#: ../visual-composer/extend-visual-composer.php:1169
+#: ../visual-composer/extend-visual-composer.php:1374
+#: ../visual-composer/extend-visual-composer.php:1481
+#: ../visual-composer/extend-visual-composer.php:1677
+msgid "Term Slug"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1005 ../tinymce/shortcodes-array.php:1171
+#: ../tinymce/shortcodes-array.php:1253 ../tinymce/shortcodes-array.php:1418
+msgid ""
+"Enter the Term slug to get your posts from. This term must be a part of the "
+"taxonomy above. You can find your slug on your taxonomy dashboard. For "
+"regular posts that would be the \"Categories\" page."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1009 ../tinymce/shortcodes-array.php:1175
+#: ../tinymce/shortcodes-array.php:1257 ../tinymce/shortcodes-array.php:1422
+msgid "Count"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1011 ../tinymce/shortcodes-array.php:1177
+#: ../tinymce/shortcodes-array.php:1259 ../tinymce/shortcodes-array.php:1424
+#: ../visual-composer/extend-visual-composer.php:1181
+#: ../visual-composer/extend-visual-composer.php:1386
+#: ../visual-composer/extend-visual-composer.php:1493
+#: ../visual-composer/extend-visual-composer.php:1689
+msgid "How many items do you wish to show."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1015 ../tinymce/shortcodes-array.php:1263
+#: ../tinymce/shortcodes-array.php:1674
+#: ../visual-composer/extend-visual-composer.php:1187
+#: ../visual-composer/extend-visual-composer.php:1877
+msgid "Pagination"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1016 ../tinymce/shortcodes-array.php:1264
+#: ../tinymce/shortcodes-array.php:1675
+#: ../visual-composer/extend-visual-composer.php:1189
+#: ../visual-composer/extend-visual-composer.php:1879
+msgid "Note: Pagination will not work on your homepage."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1025
+#: ../visual-composer/extend-visual-composer.php:1199
+msgid "Columns"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1039 ../tinymce/shortcodes-array.php:1182
+#: ../tinymce/shortcodes-array.php:1273 ../tinymce/shortcodes-array.php:1429
+#: ../tinymce/shortcodes-array.php:1684 ../tinymce/shortcodes-array.php:1799
+#: ../visual-composer/extend-visual-composer.php:1214
+#: ../visual-composer/extend-visual-composer.php:1392
+#: ../visual-composer/extend-visual-composer.php:1499
+#: ../visual-composer/extend-visual-composer.php:1695
+#: ../visual-composer/extend-visual-composer.php:1889
+#: ../visual-composer/extend-visual-composer.php:2040
+msgid "Order"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1049 ../tinymce/shortcodes-array.php:1192
+#: ../tinymce/shortcodes-array.php:1283 ../tinymce/shortcodes-array.php:1440
+#: ../visual-composer/extend-visual-composer.php:1226
+#: ../visual-composer/extend-visual-composer.php:1404
+#: ../visual-composer/extend-visual-composer.php:1511
+#: ../visual-composer/extend-visual-composer.php:1707
+msgid "Order By"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1064 ../tinymce/shortcodes-array.php:1345
+#: ../tinymce/shortcodes-array.php:1454 ../tinymce/shortcodes-array.php:1741
+#: ../tinymce/shortcodes-array.php:1809
+#: ../visual-composer/extend-visual-composer.php:1242
+#: ../visual-composer/extend-visual-composer.php:1584
+#: ../visual-composer/extend-visual-composer.php:1723
+#: ../visual-composer/extend-visual-composer.php:1958
+#: ../visual-composer/extend-visual-composer.php:2052
+msgid "Thumbnail Link"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1076 ../tinymce/shortcodes-array.php:1357
+#: ../tinymce/shortcodes-array.php:1466 ../tinymce/shortcodes-array.php:1752
+#: ../tinymce/shortcodes-array.php:1820
+#: ../visual-composer/extend-visual-composer.php:1254
+#: ../visual-composer/extend-visual-composer.php:1596
+#: ../visual-composer/extend-visual-composer.php:1735
+#: ../visual-composer/extend-visual-composer.php:1969
+#: ../visual-composer/extend-visual-composer.php:2063
+msgid "Thumbnail Crop"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1085 ../tinymce/shortcodes-array.php:1366
+#: ../tinymce/shortcodes-array.php:1475 ../tinymce/shortcodes-array.php:1761
+#: ../tinymce/shortcodes-array.php:1829
+#: ../visual-composer/extend-visual-composer.php:1265
+#: ../visual-composer/extend-visual-composer.php:1607
+#: ../visual-composer/extend-visual-composer.php:1746
+#: ../visual-composer/extend-visual-composer.php:1980
+#: ../visual-composer/extend-visual-composer.php:2074
+msgid "Thumbnail Width"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1091 ../tinymce/shortcodes-array.php:1372
+#: ../tinymce/shortcodes-array.php:1481 ../tinymce/shortcodes-array.php:1767
+#: ../tinymce/shortcodes-array.php:1835
+#: ../visual-composer/extend-visual-composer.php:1274
+#: ../visual-composer/extend-visual-composer.php:1616
+#: ../visual-composer/extend-visual-composer.php:1755
+#: ../visual-composer/extend-visual-composer.php:1989
+#: ../visual-composer/extend-visual-composer.php:2083
+msgid "Thumbnail Height"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1093 ../tinymce/shortcodes-array.php:1374
+#: ../tinymce/shortcodes-array.php:1483 ../tinymce/shortcodes-array.php:1769
+#: ../tinymce/shortcodes-array.php:1837
+#: ../visual-composer/extend-visual-composer.php:1277
+#: ../visual-composer/extend-visual-composer.php:1619
+#: ../visual-composer/extend-visual-composer.php:1758
+#: ../visual-composer/extend-visual-composer.php:1992
+#: ../visual-composer/extend-visual-composer.php:2086
+msgid ""
+"Enter a height in pixels. Set to \"9999\" to disable vertical cropping and "
+"keep image proportions."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1097 ../tinymce/shortcodes-array.php:1378
+#: ../tinymce/shortcodes-array.php:1487 ../tinymce/shortcodes-array.php:1773
+#: ../tinymce/shortcodes-array.php:1841
+#: ../visual-composer/extend-visual-composer.php:1283
+#: ../visual-composer/extend-visual-composer.php:1625
+#: ../visual-composer/extend-visual-composer.php:1764
+#: ../visual-composer/extend-visual-composer.php:1998
+#: ../visual-composer/extend-visual-composer.php:2092
+msgid "Display Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1107
+#: ../visual-composer/extend-visual-composer.php:1294
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1117 ../tinymce/shortcodes-array.php:1206
+#: ../visual-composer/extend-visual-composer.php:1305
+#: ../visual-composer/extend-visual-composer.php:1420
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1119 ../tinymce/shortcodes-array.php:1208
+#: ../visual-composer/extend-visual-composer.php:1308
+#: ../visual-composer/extend-visual-composer.php:1423
+msgid "How many words do you want to display for your excerpt?"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1123 ../tinymce/shortcodes-array.php:1212
+#: ../visual-composer/extend-visual-composer.php:1314
+#: ../visual-composer/extend-visual-composer.php:1429
+msgid "Read More Link?"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1133
+msgid "Insert Posts Grid"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1158
+#: ../visual-composer/extend-visual-composer.php:1357
+msgid "Header"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1222
+msgid "Insert Recent News"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1297 ../tinymce/shortcodes-array.php:1693
+#: ../tinymce/shortcodes-array.php:1930
+#: ../visual-composer/extend-visual-composer.php:1527
+#: ../visual-composer/extend-visual-composer.php:1901
+msgid "Item Width"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1303 ../tinymce/shortcodes-array.php:1699
+#: ../tinymce/shortcodes-array.php:1936
+msgid "Minimum Slides"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1309 ../tinymce/shortcodes-array.php:1705
+#: ../tinymce/shortcodes-array.php:1942
+#: ../visual-composer/extend-visual-composer.php:1543
+#: ../visual-composer/extend-visual-composer.php:1917
+msgid "Max Slides"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1315 ../tinymce/shortcodes-array.php:1711
+#: ../tinymce/shortcodes-array.php:1948
+#: ../visual-composer/extend-visual-composer.php:1551
+#: ../visual-composer/extend-visual-composer.php:1925
+msgid "Auto Play"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1325 ../tinymce/shortcodes-array.php:1721
+#: ../tinymce/shortcodes-array.php:1958
+#: ../visual-composer/extend-visual-composer.php:1562
+#: ../visual-composer/extend-visual-composer.php:1936
+msgid "Display Pager?"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1335 ../tinymce/shortcodes-array.php:1731
+#: ../tinymce/shortcodes-array.php:1968
+#: ../visual-composer/extend-visual-composer.php:1573
+#: ../visual-composer/extend-visual-composer.php:1947
+msgid "Display Arrows?"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1388 ../tinymce/shortcodes-array.php:1783
+#: ../tinymce/shortcodes-array.php:1920
+msgid "Insert Carousel"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1498 ../tinymce/shortcodes-array.php:1588
+#: ../tinymce/shortcodes-array.php:1852
+#: ../visual-composer/extend-visual-composer.php:1775
+#: ../visual-composer/extend-visual-composer.php:2103
+msgid "Animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1508 ../tinymce/shortcodes-array.php:1598
+#: ../tinymce/shortcodes-array.php:1862
+#: ../visual-composer/extend-visual-composer.php:1786
+#: ../visual-composer/extend-visual-composer.php:2114
+msgid "Slideshow"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1518 ../tinymce/shortcodes-array.php:1608
+#: ../tinymce/shortcodes-array.php:1872
+#: ../visual-composer/extend-visual-composer.php:1797
+#: ../visual-composer/extend-visual-composer.php:2125
+msgid "Randomize"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1528 ../tinymce/shortcodes-array.php:1618
+#: ../tinymce/shortcodes-array.php:1882
+#: ../visual-composer/extend-visual-composer.php:1808
+#: ../visual-composer/extend-visual-composer.php:2136
+msgid "Control Nav"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1538 ../tinymce/shortcodes-array.php:1628
+#: ../tinymce/shortcodes-array.php:1892
+#: ../visual-composer/extend-visual-composer.php:1819
+#: ../visual-composer/extend-visual-composer.php:2147
+msgid "Direction Nav"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1548 ../tinymce/shortcodes-array.php:1638
+#: ../tinymce/shortcodes-array.php:1902
+#: ../visual-composer/extend-visual-composer.php:1830
+#: ../visual-composer/extend-visual-composer.php:2158
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1554 ../tinymce/shortcodes-array.php:1644
+#: ../tinymce/shortcodes-array.php:1908
+#: ../visual-composer/extend-visual-composer.php:1838
+#: ../visual-composer/extend-visual-composer.php:2166
+msgid "Animation Speed"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1559 ../tinymce/shortcodes-array.php:1567
+#: ../tinymce/shortcodes-array.php:1913
+msgid "Insert FlexSlider"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1579
+msgid ""
+"Select your slider style. Select content if you are adding text, images, "
+"HTMl shortcodes..etc. Select images if this slider will only be images."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1653 ../tinymce/shortcodes-array.php:1982
+msgid "Slide Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1654 ../tinymce/shortcodes-array.php:1983
+msgid ""
+"Enter your slide content. This can be images, HTMl, shortcodes..etc. You can "
+"always enter something simple then add images and more text via your post "
+"editor."
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1658 ../tinymce/shortcodes-array.php:1987
+msgid "Add Slide"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:1996
+#: ../visual-composer/extend-visual-composer.php:2176
+#: ../visual-composer/extend-visual-composer.php:2188
+msgid "Icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:2003
+#: ../visual-composer/extend-visual-composer.php:2201
+msgid "Extra Large"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:2005
+#: ../visual-composer/extend-visual-composer.php:2203
+msgid "Normal"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:2007
+#: ../visual-composer/extend-visual-composer.php:2205
+msgid "Tiny"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:2025
+#: ../visual-composer/extend-visual-composer.php:325
+#: ../visual-composer/extend-visual-composer.php:546
+#: ../visual-composer/extend-visual-composer.php:873
+#: ../visual-composer/extend-visual-composer.php:1102
+#: ../visual-composer/extend-visual-composer.php:1246
+#: ../visual-composer/extend-visual-composer.php:1588
+#: ../visual-composer/extend-visual-composer.php:1727
+#: ../visual-composer/extend-visual-composer.php:1961
+#: ../visual-composer/extend-visual-composer.php:2055
+msgid "None"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:2031
+msgid "Color Hex"
+msgstr ""
+
+#: ../tinymce/shortcodes-array.php:2036
+#: ../visual-composer/extend-visual-composer.php:798
+msgid "Background"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:32
+msgid "LayerSlider"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:35
+#: ../visual-composer/extend-visual-composer.php:60
+#: ../visual-composer/extend-visual-composer.php:83
+#: ../visual-composer/extend-visual-composer.php:121
+#: ../visual-composer/extend-visual-composer.php:232
+#: ../visual-composer/extend-visual-composer.php:356
+#: ../visual-composer/extend-visual-composer.php:441
+#: ../visual-composer/extend-visual-composer.php:577
+#: ../visual-composer/extend-visual-composer.php:622
+#: ../visual-composer/extend-visual-composer.php:734
+#: ../visual-composer/extend-visual-composer.php:771
+#: ../visual-composer/extend-visual-composer.php:823
+#: ../visual-composer/extend-visual-composer.php:886
+#: ../visual-composer/extend-visual-composer.php:938
+#: ../visual-composer/extend-visual-composer.php:969
+#: ../visual-composer/extend-visual-composer.php:1133
+#: ../visual-composer/extend-visual-composer.php:1330
+#: ../visual-composer/extend-visual-composer.php:1445
+#: ../visual-composer/extend-visual-composer.php:1641
+#: ../visual-composer/extend-visual-composer.php:1851
+#: ../visual-composer/extend-visual-composer.php:2014
+#: ../visual-composer/extend-visual-composer.php:2179
+msgid "Symple Shortcodes"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:44
+msgid "Enter your slider ID"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:57
+#: ../visual-composer/extend-visual-composer.php:69
+msgid "Spacing"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:80
+msgid "Bullets"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:95
+msgid "Check"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:97
+#: ../visual-composer/extend-visual-composer.php:370
+#: ../visual-composer/extend-visual-composer.php:748
+msgid "Gray"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:98
+msgid "Purple"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:101
+msgid "Select your bullet style."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:107
+msgid "List"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:110
+msgid "Insert your unordered list here."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:118
+msgid "Background Area"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:130
+#: ../visual-composer/extend-visual-composer.php:2244
+msgid "Background Color"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:139
+msgid "Text Color"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:148
+msgid "Background Image"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:151
+msgid "Upload a custom background image."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:159
+msgid "Select a background style."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:161
+msgid "Parallax"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:162
+msgid "Fixed"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:163
+msgid "Repeat"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:170
+msgid "Center Content"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:172
+msgid "Center inner content?"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:185
+msgid "Increase the bacground padding above your content."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:194
+msgid "Increase the bacground padding below your content."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:203
+msgid "Add space above your content with a top margin."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:212
+msgid "Add space below your content with a top margin."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:220
+#: ../visual-composer/extend-visual-composer.php:452
+msgid "Enter your content here."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:221
+msgid "Add your content here."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:229
+msgid "Button"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:253
+msgid "Button\\'s Text"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:262
+msgid "Add A Link Title"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:268
+msgid "Button Color"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:270
+#: ../visual-composer/extend-visual-composer.php:491
+#: ../visual-composer/extend-visual-composer.php:1047
+msgid "Select a button color."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:291
+#: ../visual-composer/extend-visual-composer.php:512
+#: ../visual-composer/extend-visual-composer.php:1068
+msgid "Select a button size."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:314
+#: ../visual-composer/extend-visual-composer.php:535
+#: ../visual-composer/extend-visual-composer.php:862
+#: ../visual-composer/extend-visual-composer.php:1091
+msgid "Self"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:315
+#: ../visual-composer/extend-visual-composer.php:536
+#: ../visual-composer/extend-visual-composer.php:863
+#: ../visual-composer/extend-visual-composer.php:1092
+msgid "Blank"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:322
+#: ../visual-composer/extend-visual-composer.php:870
+msgid "Link Rel"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:326
+#: ../visual-composer/extend-visual-composer.php:547
+#: ../visual-composer/extend-visual-composer.php:874
+#: ../visual-composer/extend-visual-composer.php:1103
+msgid "Nofollow"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:335
+#: ../visual-composer/extend-visual-composer.php:556
+#: ../visual-composer/extend-visual-composer.php:1112
+#, php-format
+msgid "Icon to the left of your button text. See all the icons at %s"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:344
+#: ../visual-composer/extend-visual-composer.php:565
+#: ../visual-composer/extend-visual-composer.php:1121
+#, php-format
+msgid "Icon to the right of your button text. See all the icons at %s"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:353
+msgid "Box"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:373
+#: ../visual-composer/extend-visual-composer.php:750
+msgid "Yellow"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:374
+msgid "White"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:383
+#: ../visual-composer/extend-visual-composer.php:461
+#: ../visual-composer/extend-visual-composer.php:915
+#: ../visual-composer/extend-visual-composer.php:2214
+msgid "Fade In Animation"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:395
+msgid "Select a box float."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:406
+#: ../visual-composer/extend-visual-composer.php:698
+msgid "Text Alignment"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:408
+#: ../visual-composer/extend-visual-composer.php:700
+msgid "Select a text alignment"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:419
+msgid "Box Width"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:422
+msgid "Set a box width %."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:438
+msgid "Callout"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:489
+#: ../visual-composer/extend-visual-composer.php:1045
+msgid "Button: Color"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:574
+msgid "Divider"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:588
+msgid "Select a divider style."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:590
+msgid "Solid"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:591
+msgid "Dashed"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:592
+msgid "Dotted"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:602
+#: ../visual-composer/extend-visual-composer.php:652
+msgid "Add space above your heading with a top margin."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:611
+#: ../visual-composer/extend-visual-composer.php:661
+msgid "Add space below your heading with a bottom margin."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:619
+msgid "Heading"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:634
+msgid "Enter a heading title."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:643
+msgid "Choose a heading type (h1, h2, h3, etc.)"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:670
+msgid "Set a Font Size (in px)."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:676
+msgid "Heading Color"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:679
+msgid "Heading text color (Hex value)."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:685
+msgid "Heading Style"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:687
+msgid "Select a heading style."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:689
+msgid "Double Line"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:690
+msgid "Dashed Line"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:691
+msgid "Dotted Line"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:713
+#, php-format
+msgid "Icon to the left of your heading text. See all the icons at %s"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:722
+#, php-format
+msgid "Icon to the right of your heading text. See all the icons at %s"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:731
+msgid "Highlight"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:760
+msgid "Add the text to be highlighted."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:768
+msgid "Skillbar"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:783
+msgid "Add your skillbar title."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:792
+msgid "Add a percentage value."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:801
+msgid "Choose your custom background color (Hex value)."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:820
+msgid "Social"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:832
+msgid "Social Icon"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:834
+msgid "Select your social icon."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:844
+msgid "Social Profile URL"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:853
+msgid "Add A Social Link Title"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:883
+msgid "Testimonial"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:898
+msgid "Testimonial Author"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:904
+msgid "Testimonial Content"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:906
+msgid "This product is amazing!"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:907
+msgid "This is where your testimonial goes."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:935
+msgid "WPML"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:950
+msgid "Select a WPML language."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:966
+msgid "Pricing Table"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:981
+msgid "Yes"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:982
+msgid "No"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1130
+msgid "Post Grid"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1151
+#: ../visual-composer/extend-visual-composer.php:1348
+#: ../visual-composer/extend-visual-composer.php:1463
+#: ../visual-composer/extend-visual-composer.php:1659
+msgid "Post Type (Only Select One)"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1154
+#: ../visual-composer/extend-visual-composer.php:1351
+#: ../visual-composer/extend-visual-composer.php:1466
+#: ../visual-composer/extend-visual-composer.php:1662
+msgid "Select a post type to get posts from."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1163
+#: ../visual-composer/extend-visual-composer.php:1368
+#: ../visual-composer/extend-visual-composer.php:1475
+#: ../visual-composer/extend-visual-composer.php:1671
+msgid ""
+"Select a custom taxonomy if you want to show items only from a specific "
+"taxonomy. Leave blank to display recent items from the whole post type. Ex: "
+"category"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1172
+#: ../visual-composer/extend-visual-composer.php:1377
+#: ../visual-composer/extend-visual-composer.php:1484
+#: ../visual-composer/extend-visual-composer.php:1680
+msgid ""
+"Enter the Term slug to get your posts from. This term must be a part of the "
+"taxonomy above. You can find your slug on your taxonomy dashboard. For "
+"regular posts that would be the Categories page."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1178
+#: ../visual-composer/extend-visual-composer.php:1383
+#: ../visual-composer/extend-visual-composer.php:1490
+#: ../visual-composer/extend-visual-composer.php:1686
+msgid "Post Count"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1202
+msgid "1"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1203
+msgid "2"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1204
+msgid "3"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1205
+msgid "4"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1206
+msgid "5"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1207
+msgid "6"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1216
+#: ../visual-composer/extend-visual-composer.php:1394
+#: ../visual-composer/extend-visual-composer.php:1501
+#: ../visual-composer/extend-visual-composer.php:1697
+#: ../visual-composer/extend-visual-composer.php:1891
+#: ../visual-composer/extend-visual-composer.php:2042
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1218
+#: ../visual-composer/extend-visual-composer.php:1396
+#: ../visual-composer/extend-visual-composer.php:1503
+#: ../visual-composer/extend-visual-composer.php:1699
+#: ../visual-composer/extend-visual-composer.php:1893
+#: ../visual-composer/extend-visual-composer.php:2044
+msgid "DESC"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1219
+#: ../visual-composer/extend-visual-composer.php:1397
+#: ../visual-composer/extend-visual-composer.php:1504
+#: ../visual-composer/extend-visual-composer.php:1700
+#: ../visual-composer/extend-visual-composer.php:1894
+#: ../visual-composer/extend-visual-composer.php:2045
+msgid "ASC"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1228
+#: ../visual-composer/extend-visual-composer.php:1406
+#: ../visual-composer/extend-visual-composer.php:1513
+#: ../visual-composer/extend-visual-composer.php:1709
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1230
+#: ../visual-composer/extend-visual-composer.php:1408
+#: ../visual-composer/extend-visual-composer.php:1515
+#: ../visual-composer/extend-visual-composer.php:1711
+msgid "Date"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1231
+#: ../visual-composer/extend-visual-composer.php:1409
+#: ../visual-composer/extend-visual-composer.php:1516
+#: ../visual-composer/extend-visual-composer.php:1712
+msgid "Name"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1232
+#: ../visual-composer/extend-visual-composer.php:1410
+#: ../visual-composer/extend-visual-composer.php:1517
+#: ../visual-composer/extend-visual-composer.php:1713
+msgid "Modified"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1234
+#: ../visual-composer/extend-visual-composer.php:1412
+#: ../visual-composer/extend-visual-composer.php:1519
+#: ../visual-composer/extend-visual-composer.php:1715
+msgid "Random"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1235
+#: ../visual-composer/extend-visual-composer.php:1413
+#: ../visual-composer/extend-visual-composer.php:1520
+#: ../visual-composer/extend-visual-composer.php:1716
+msgid "Comment Count"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1245
+#: ../visual-composer/extend-visual-composer.php:1587
+#: ../visual-composer/extend-visual-composer.php:1726
+msgid "Post"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1247
+#: ../visual-composer/extend-visual-composer.php:1589
+#: ../visual-composer/extend-visual-composer.php:1728
+#: ../visual-composer/extend-visual-composer.php:1962
+#: ../visual-composer/extend-visual-composer.php:2056
+msgid "Lightbox"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1268
+#: ../visual-composer/extend-visual-composer.php:1610
+#: ../visual-composer/extend-visual-composer.php:1749
+#: ../visual-composer/extend-visual-composer.php:1983
+#: ../visual-composer/extend-visual-composer.php:2077
+msgid "Enter a width in pixels."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1327
+msgid "Recent News"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1442
+msgid "Post Carousel"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1535
+#: ../visual-composer/extend-visual-composer.php:1909
+msgid "Min Slides"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1638
+msgid "Post Slider"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1778
+#: ../visual-composer/extend-visual-composer.php:2106
+msgid "Slide"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1779
+#: ../visual-composer/extend-visual-composer.php:2107
+msgid "Fade"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1848
+msgid "Image Carousel"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1860
+#: ../visual-composer/extend-visual-composer.php:2023
+msgid "Attach Images"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:1862
+#: ../visual-composer/extend-visual-composer.php:2025
+msgid "Attach images to your post."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:2011
+msgid "Image FlexSlider"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:2190
+#, php-format
+msgid "Select a FontAwesome icon. See all the icons at %s"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:2197
+msgid "Icon Size"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:2199
+msgid "Select an icon size."
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:2236
+msgid "Icon Color"
+msgstr ""
+
+#: ../visual-composer/extend-visual-composer.php:2255
+msgid ""
+"Change the background border radius (99px for a circle, down to 0px for a "
+"square)"
+msgstr ""
